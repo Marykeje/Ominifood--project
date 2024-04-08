@@ -70,7 +70,7 @@ const obs = new IntersectionObserver(
     }
   },
   {
-    // In thre viewport. (null means the viewport)
+    // In the viewport. (null means the viewport)
     root: null,
     threshold: 0,
     rootMargin: "-80px",
